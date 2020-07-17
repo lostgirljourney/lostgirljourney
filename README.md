@@ -11,6 +11,6 @@
 </a>
 
 <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
-<br>
+<br><br>
 
 > <b><i>Learning while HOPING & HUSTLING!!!</i></b>
