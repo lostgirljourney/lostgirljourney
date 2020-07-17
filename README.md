@@ -15,7 +15,7 @@
 
 > <b><i>Learning while HOPING & HUSTLING!!!</i></b>
 
-This is my first repository which I made with all my current knowledge and learning is still in progress.<br><br>
+This is my first repository which I made with all my current knowledge and learning is still in progress.<br>
 
 <a href="https://github.com/lostgirljourney/Feedback_Form">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lostgirljourney&repo=Feedback_Form" />
