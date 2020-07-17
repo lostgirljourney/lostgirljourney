@@ -1,4 +1,4 @@
-## Heya Everyone:wave:, I'm [Falguni!](https://github.com/lostgirljourney)
+## Heya Everyone:wave:, I'm [Falguni](https://github.com/lostgirljourney)...
 
 <a href="https://twitter.com/lostgirlvintage">
   <img align="left" alt="Falguni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
