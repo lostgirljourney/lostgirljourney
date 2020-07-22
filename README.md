@@ -10,7 +10,10 @@
   <img align="left" alt="Falguni @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.codechef.com/users/falgunisarkar">
-  <img align="left" alt="Falguni @CodeChetf" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="Falguni @CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a>
+<a href="https://www.hackerrank.com/lostgirljourney">
+  <img align="left" alt="Falguni @Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 <a>
 <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
 <br><br>
