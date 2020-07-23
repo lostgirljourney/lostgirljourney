@@ -1,4 +1,4 @@
-## Heya Everyone, It's me [Falguni](https://github.com/lostgirljourney)&nbsp;<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px" height="30px" frameBorder="0" class="giphy-embed">&nbsp;...
+## Heya Everyone, It's me [Falguni](https://github.com/lostgirljourney)&nbsp;<img src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" width="30px" height="30px" frameBorder="0" class="giphy-embed" />&nbsp;...
 
 <a href="https://twitter.com/lostgirlvintage">
   <img align="left" alt="Falguni @Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,7 +15,7 @@
 <a href="https://www.hackerrank.com/lostgirljourney">
   <img align="left" alt="Falguni @Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 <a>
-<img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
+<img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 <br><br>
 
 > <b><i>Learning while HOPING & HUSTLING!!!</i></b>
