@@ -21,9 +21,3 @@
 <br><br>
   
 > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b>
-
-<br><br>
-
-<a href="https://github.com/lostgirljourney/Feedback_Form">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lostgirljourney&repo=Feedback_Form" />
-</a>
