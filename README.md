@@ -1,4 +1,4 @@
-## Heya Everyone, It's me [Falguni](https://github.com/lostgirljourney)&nbsp;<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px" height="30px" frameBorder="0" class="giphy-embed" />&nbsp;...
+## Heya Everyone<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, It's me [Falguni](https://github.com/lostgirljourney)&nbsp;<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px" height="30px" frameBorder="0" class="giphy-embed" />&nbsp;...
 
 <a href="https://twitter.com/lostgirlvintage">
   <img align="left" alt="Falguni @Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,12 +15,14 @@
 <a href="https://www.hackerrank.com/lostgirljourney">
   <img align="left" alt="Falguni @Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+<br><br>
+<img align="left" width=300px src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
 <br><br>
+  
+> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b>
 
-> <b><i>Learning while HOPING & HUSTLING!!!</i></b>
-
-This is my first repository which I made with all my current knowledge and learning is still in progress.<br>
+<br><br>
 
 <a href="https://github.com/lostgirljourney/Feedback_Form">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lostgirljourney&repo=Feedback_Form" />
