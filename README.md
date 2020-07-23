@@ -16,7 +16,6 @@
   <img align="center" alt="Falguni @Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 </h1>
-<br><br>
 <img align="left" width=300px src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
 <br><br>
