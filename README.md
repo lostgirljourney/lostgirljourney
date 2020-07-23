@@ -1,4 +1,4 @@
-## Heya Everyone<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's me [Falguni](https://github.com/lostgirljourney)...
+## Heya Everyone, It's me [Falguni](https://github.com/lostgirljourney)&nbsp;<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px" height="30px" frameBorder="0" class="giphy-embed">
 
 <a href="https://twitter.com/lostgirlvintage">
   <img align="left" alt="Falguni @Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
