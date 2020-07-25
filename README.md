@@ -18,7 +18,7 @@
 </h1>
 <img align="left" width=300px src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
-<br><br>
+<br><br><br>
  <br><br> 
  
 > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b>
