@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/falgunisarkar">
   <img align="center" alt="Falguni @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-  <a href="falgunisarkar526@gmail.com">
+  <a href="mailto:falgunisarkar526@gmail.com">
   <img align="center" alt="Falguni @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://twitter.com/lostgirlvintage">
@@ -17,7 +17,7 @@
 </a>
 <a href="https://www.hackerrank.com/lostgirljourney">
   <img align="center" alt="Falguni @Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+  </a>
 </h1>
 
 <p align="center">
@@ -45,9 +45,9 @@
 
 <hr>
 <p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Status...</b></i><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lostgirljourney&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Status"/>
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Status...</b></i><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=lostgirljourney&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lostgirljourney&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Most Used Languages">
 </p>
 
-<!-- can't stop myself from editing... -->
+<!-- can't stop myself from editing🤷... -->
