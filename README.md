@@ -45,9 +45,14 @@
 
 <hr>
 <p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Status...</b></i><br><br>
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Status...</b></i><br>
 <img src="https://github-readme-stats.vercel.app/api?username=lostgirljourney&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lostgirljourney&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Most Used Languages">
+</p>
+<hr>
+<p align="center"> 
+  <i><b>Profile Visitor count</b></i><br><br>
+  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
 </p>
 
 <!-- can't stop myself from editing🤷... -->
