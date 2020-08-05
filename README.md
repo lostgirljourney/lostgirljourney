@@ -51,7 +51,7 @@
 </p>
 <hr>
 <p align="center"> 
-  <i><b>Profile Visitor count</b></i><br><br>
+  <i><b>Profile Visitor Count</b></i><br>
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
 </p>
 
