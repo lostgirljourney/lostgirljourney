@@ -44,7 +44,10 @@
 - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: I've ***13 Reasons Why***▶️&nbsp;to live **Happy** & *Money* is a one of them...
 
 <hr>
+<p align="center">
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Status...</b></i><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lostgirljourney&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lostgirljourney&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Most Used Languages">
+</p>
 
-> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;***GitHub Status...***
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lostgirljourney&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  />
+<!-- can't stop myself from editing... -->
