@@ -53,9 +53,29 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lostgirljourney&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lostgirljourney&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Most Used Languages">
 </p>
+<!--
 <hr>
+<details align="center">
+<summary>
+  Projects I am currently working on
+</summary>
+
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
+
+<br />
+</details>
+-->
+
+<hr>
+
 <p align="center"> 
   <i><b>Profile Visitor Count</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
 </p>
 
