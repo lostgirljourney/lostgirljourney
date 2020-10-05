@@ -80,7 +80,7 @@
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
-  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=lostgirljourney" alt="lostgirljourney" />
 </p>
 
 <hr>
