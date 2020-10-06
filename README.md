@@ -57,8 +57,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lostgirljourney&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lostgirljourney&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
-<!--
-<hr>
+
+<!-- <hr>
 <details align="center">
 <summary>
   Projects I am currently working on
@@ -72,8 +72,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
 
 <br />
-</details>
--->
+</details> -->
 
 <hr>
 
