@@ -25,6 +25,9 @@
 <a href="https://dev.to/lostgirljourney">
   <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Falguni @DEV Profile" width="22px">
 </a>
+  
+<br>
+  <img src="https://komarev.com/ghpvc/?username=lostgirljourney" alt="lostgirljourney" />
 </h1>
 
 <p align="center">
@@ -72,16 +75,16 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
 
 <br />
-</details> -->
+</details> 
 
 <hr>
 
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
-  <img src="https://komarev.com/ghpvc/?username=lostgirljourney" alt="lostgirljourney" />
+  
 </p>
-
+-->
 <hr>
 
 <p align="center"> 
