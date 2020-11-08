@@ -13,6 +13,9 @@
 <a href="https://www.instagram.com/lostgirlvintage_">
   <img align="center" alt="Falguni @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://falgunisarkar.medium.com/">
+  <img align="center" alt="Falguni @Qwiklabs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 <a href="https://google.qwiklabs.com/public_profiles/25c28abe-885e-4ec6-b75f-73f1d429ec08">
   <img align="center" alt="Falguni @Qwiklabs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qwiklabs.svg" />
 </a>
