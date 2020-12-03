@@ -59,8 +59,8 @@
 <hr>
 <p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br><br>
-<img src="https://github-readme-status.lostgirljourney.vercel.app/api?username=lostgirljourney&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub Status"/>
-<img src = "https://github-readme-status.lostgirljourney.vercel.app/api/top-langs/?username=lostgirljourney&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=highcontrast" alt="Most Used Languages">
+<img src="https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&theme=midnight-purple&show_icons=true&count_private=true" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=lostgirljourney&layout=compact&theme=highcontrast" alt="Most Used Languages">
 </p>
 
 <!-- 
@@ -72,12 +72,6 @@
 </summary>
 
 <br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
-
 <br />
 </details> 
 
