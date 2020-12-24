@@ -2,31 +2,31 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <br>
 <a href="https://www.linkedin.com/in/falgunisarkar">
-  <img align="center" alt="Falguni @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Falguni @LinkedIN" width="22px" src="handles/linkedin.svg" />
 </a>
   <a href="mailto:falgunisarkar526@gmail.com">
-  <img align="center" alt="Falguni @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" alt="Falguni @Mail" width="22px" src="handles/gmail.svg" />
 </a>
 <a href="https://twitter.com/lostgirlvintage">
-  <img align="center" alt="Falguni @Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Falguni @Twitter" width="22px" src="handles/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/lostgirlvintage_">
-  <img align="center" alt="Falguni @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Falguni @Instagram" width="22px" src="handles/instagram.svg" />
 </a>
 <a href="https://falgunisarkar.medium.com/">
-  <img align="center" alt="Falguni @Qwiklabs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="center" alt="Falguni @Qwiklabs" width="22px" src="handles/medium.svg" />
 </a>
 <a href="https://google.qwiklabs.com/public_profiles/25c28abe-885e-4ec6-b75f-73f1d429ec08">
-  <img align="center" alt="Falguni @Qwiklabs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qwiklabs.svg" />
-</a>
-<a href="https://www.hackerrank.com/lostgirljourney">
-  <img align="center" alt="Falguni @Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="center" alt="Falguni @Qwiklabs" width="22px" src="handles/qwiklabs.png" />
 </a>
 <a href="https://www.codechef.com/users/falgunisarkar">
-  <img align="center" alt="Falguni @CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="center" alt="Falguni @CodeChef" width="22px" src="handles/codechef.jpeg" />
+</a>
+<a href="https://www.hackerrank.com/lostgirljourney">
+  <img align="center" alt="Falguni @Hackerrank" width="22px" src="handles/hackerrank.svg" />
 </a>
 <a href="https://dev.to/lostgirljourney">
-  <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Falguni @DEV Profile" width="22px">
+  <img align="center" src="handles/dev.png" alt="Falguni @DEV Profile" width="22px">
 </a>
   
 <br>
