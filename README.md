@@ -19,11 +19,11 @@
 <a href="https://google.qwiklabs.com/public_profiles/25c28abe-885e-4ec6-b75f-73f1d429ec08">
   <img align="center" alt="Falguni @Qwiklabs" width="22px" src="handles/qwiklabs.png" />
 </a>
-<a href="https://www.codechef.com/users/falgunisarkar">
-  <img align="center" alt="Falguni @CodeChef" width="22px" src="handles/codechef.jpeg" />
-</a>
 <a href="https://www.hackerrank.com/lostgirljourney">
   <img align="center" alt="Falguni @Hackerrank" width="22px" src="handles/hackerrank.svg" />
+</a>
+<a href="https://www.codechef.com/users/falgunisarkar">
+  <img align="center" alt="Falguni @CodeChef" width="22px" src="handles/codechef.jpeg" />
 </a>
 <a href="https://dev.to/lostgirljourney">
   <img align="center" src="handles/dev.png" alt="Falguni @DEV Profile" width="22px">
