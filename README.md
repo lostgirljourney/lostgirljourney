@@ -16,14 +16,14 @@
 <a href="https://www.instagram.com/lostgirlvintage_">
   <img align="center" alt="Falguni @Instagram" width="22px" src="handles/instagram.svg" />
 </a>
-<a href="https://falgunisarkar.medium.com/">
-  <img align="center" alt="Falguni @Qwiklabs" width="22px" src="handles/medium.svg" />
+<a href="https://www.hackerrank.com/lostgirljourney">
+  <img align="center" alt="Falguni @Hackerrank" width="22px" src="handles/hackerrank.svg" />
 </a>
 <a href="https://google.qwiklabs.com/public_profiles/25c28abe-885e-4ec6-b75f-73f1d429ec08">
   <img align="center" alt="Falguni @Qwiklabs" width="22px" src="handles/qwiklabs.png" />
 </a>
-<a href="https://www.hackerrank.com/lostgirljourney">
-  <img align="center" alt="Falguni @Hackerrank" width="22px" src="handles/hackerrank.svg" />
+<a href="https://falgunisarkar.medium.com/">
+  <img align="center" alt="Falguni @Qwiklabs" width="22px" src="handles/medium.svg" />
 </a>
 <a href="https://www.codechef.com/users/falgunisarkar">
   <img align="center" alt="Falguni @CodeChef" width="22px" src="handles/codechef.jpeg" />
@@ -38,7 +38,6 @@
 </h1>
 
 <p align="center">
-
   <em>
     This is ME, Falguni Sarkar, a 2nd year undergraduate from <a href="http://sittechno.org/"> <b>Siliguri Institute of Technology</b>, Siliguri</a>. <br>
     A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
@@ -50,7 +49,6 @@
   <br>
 
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-
 </p>
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
