@@ -47,11 +47,13 @@
   </em> 
   
   <br>
-
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  
+  <p align="center">
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  </p>
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
@@ -93,11 +95,12 @@
 <hr>
 
 <p align = "center">
-  <img src = "https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br><br>
+  <i><b>GitHub Stats...</b></i><br><br>
   <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&theme=midnight-purple&show_icons=true&count_private=true" alt="GitHub Status"/>
   <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=lostgirljourney&layout=compact&theme=highcontrast" alt="Most Used Languages">
   <!-- <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/wakatime?username=lostgirljourney&theme=dark">
-  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/pin/?username=lostgirljourney&theme=dark&repo=freeCodeCamp-Responsive-Web-Design-Projects"> -->
+  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/pin/?username=lostgirljourney&theme=dark&repo=freeCodeCamp-Responsive-Web-Design-Projects"> 
+  <img src = "https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;-->
 </p>
 
 <hr>
@@ -113,6 +116,7 @@
 
 <p align="center"> 
   <i><b>Currently Playing🎶...</b></i>
+  <br><br>
   <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
 </p>
 
