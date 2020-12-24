@@ -1,6 +1,9 @@
 <hr>
+
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
 <br>
+
 <a href="https://www.linkedin.com/in/falgunisarkar">
   <img align="center" alt="Falguni @LinkedIN" width="22px" src="handles/linkedin.svg" />
 </a>
@@ -31,9 +34,11 @@
   
 <br>
   <img src="https://komarev.com/ghpvc/?username=lostgirljourney" alt="lostgirljourney" />
+
 </h1>
 
 <p align="center">
+
   <em>
     This is ME, Falguni Sarkar, a 2nd year undergraduate from <a href="http://sittechno.org/"> <b>Siliguri Institute of Technology</b>, Siliguri</a>. <br>
     A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
@@ -41,8 +46,11 @@
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
+  
   <br>
+
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+
 </p>
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
@@ -51,43 +59,64 @@
 
 - <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">&nbsp;Pronouns: ***She/Her*** or ***CoderGirl***😉
 - <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;I’m currently working on Competitive Programming...
-- <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;I’m currently learning <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> and <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />&nbsp;! 
-- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` 🤝...
+- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;I’m looking to collaborate in an Open - Source Project🤝...
 - <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
 - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: I've ***13 Reasons Why***▶️&nbsp;to live **Happy** & *Money* is a one of them...
 
 <hr>
+
 <p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br><br>
-<img src="https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&theme=midnight-purple&show_icons=true&count_private=true" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=lostgirljourney&layout=compact&theme=highcontrast" alt="Most Used Languages">
+<i><b>Languages Currently Learning:</b></i> 
+  <br><br>
+  <img align="center" src="languages/c.svg" width="30px" />&nbsp;
+  <img align="center" src="languages/python.svg" width="30px" />&nbsp;
+  <img align="center" src="languages/html-5.svg" width="30px" />&nbsp;
+  <img align="center" src="languages/mysql.svg" width="30px" />&nbsp;
+  <img align="center" src="languages/css.svg" width="30px" />&nbsp;
+  <img align="center" src="languages/javascript.svg" width="30px" />&nbsp;
+  <img align="center" src="languages/cpp.svg" width="30px" />&nbsp;
 </p>
 
-<!-- 
 <hr>
-- <img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">&nbsp;I’m looking for help with Cyber Security 😭!
-<details align="center">
-<summary>
-  Projects I am currently working on
-</summary>
 
+<p align="center">
+<i><b>Tools known:</b></i> 
+  <br><br>
+  <img align="center" src="tools/sublime.svg" width="30px" />&nbsp;
+  <img align="center" src="tools/vs-code.png" width="30px" />&nbsp;
+  <img align="center" src="tools/word.svg" width="30px" />&nbsp;
+  <img align="center" src="tools/excel.svg" width="30px" />&nbsp;
+  <img align="center" src="tools/powerpoint.svg" width="30px" />&nbsp;
+  <img align="center" src="tools/cmd.svg" width="30px" />&nbsp;
+  <img align="center" src="tools/git.svg" width="30px" />&nbsp;
+  <img align="center" src="tools/github.svg" width="30px" />&nbsp;
+</p>
+
+<hr>
+
+<p align = "center">
+  <img src = "https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br><br>
+  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&theme=midnight-purple&show_icons=true&count_private=true" alt="GitHub Status"/>
+  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=lostgirljourney&layout=compact&theme=highcontrast" alt="Most Used Languages">
+  <!-- <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/wakatime?username=lostgirljourney&theme=dark">
+  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/pin/?username=lostgirljourney&theme=dark&repo=freeCodeCamp-Responsive-Web-Design-Projects"> -->
+</p>
+
+<hr>
+
+<!-- <details align="center">
+<summary>
+  <i><b>Projects I am currently working on:</b></i><br><br>
+</summary>
 <br />
 <br />
 </details> 
-
-<hr>
-
-<p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br><br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
-  
-</p>
--->
-<hr>
+<hr> -->
 
 <p align="center"> 
-  <b>Currently Playing🎶...</b><br><br>
+  <i><b>Currently Playing🎶...</b></i>
   <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
 </p>
+
 <hr>
 <!-- can't stop myself from editing🤷... -->
