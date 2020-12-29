@@ -2,39 +2,6 @@
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<br>
-
-<a href="https://www.linkedin.com/in/falgunisarkar">
-  <img align="center" alt="Falguni @LinkedIN" width="22px" src="handles/linkedin.svg" />
-</a>
-  <a href="mailto:falgunisarkar526@gmail.com">
-  <img align="center" alt="Falguni @Mail" width="22px" src="handles/gmail.svg" />
-</a>
-<a href="https://twitter.com/lostgirlvintage">
-  <img align="center" alt="Falguni @Twitter" width="22px" src="handles/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/lostgirlvintage_">
-  <img align="center" alt="Falguni @Instagram" width="22px" src="handles/instagram.svg" />
-</a>
-<a href="https://www.hackerrank.com/lostgirljourney">
-  <img align="center" alt="Falguni @Hackerrank" width="22px" src="handles/hackerrank.svg" />
-</a>
-<a href="https://google.qwiklabs.com/public_profiles/25c28abe-885e-4ec6-b75f-73f1d429ec08">
-  <img align="center" alt="Falguni @Qwiklabs" width="22px" src="handles/qwiklabs.png" />
-</a>
-<a href="https://falgunisarkar.medium.com/">
-  <img align="center" alt="Falguni @Qwiklabs" width="22px" src="handles/medium.svg" />
-</a>
-<a href="https://www.codechef.com/users/falgunisarkar">
-  <img align="center" alt="Falguni @CodeChef" width="22px" src="handles/codechef.jpeg" />
-</a>
-<a href="https://dev.to/lostgirljourney">
-  <img align="center" src="handles/dev.png" alt="Falguni @DEV Profile" width="22px">
-</a>
-  
-<br>
-  <img src="https://komarev.com/ghpvc/?username=lostgirljourney" alt="lostgirljourney" />
-
 </h1>
 
 <p align="center">
@@ -95,12 +62,47 @@
 <hr>
 
 <p align = "center">
-  <i><b>GitHub Stats...</b></i><br><br>
+  <i><b>GitHub Stats:</b></i><br><br>
   <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&theme=midnight-purple&show_icons=true&count_private=true" alt="GitHub Status"/>
   <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=lostgirljourney&layout=compact&theme=highcontrast" alt="Most Used Languages">
-  <!-- <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/wakatime?username=lostgirljourney&theme=dark">
-  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/pin/?username=lostgirljourney&theme=dark&repo=freeCodeCamp-Responsive-Web-Design-Projects"> 
-  <img src = "https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;-->
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=lostgirljourney" alt="lostgirljourney" />
+  <!-- <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/wakatime?username=lostgirljourney&theme=dark"> -->
+
+</p>
+
+<hr>
+
+<p align = "center">
+  <i><b>Profiles:</b></i><br><br>
+  <a href="https://www.linkedin.com/in/falgunisarkar">
+  <img align="center" alt="Falguni @LinkedIN" width="22px" src="handles/linkedin.svg" />
+</a>
+  <a href="mailto:falgunisarkar526@gmail.com">
+  <img align="center" alt="Falguni @Mail" width="22px" src="handles/gmail.svg" />
+</a>
+<a href="https://twitter.com/lostgirlvintage">
+  <img align="center" alt="Falguni @Twitter" width="22px" src="handles/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/lostgirlvintage_">
+  <img align="center" alt="Falguni @Instagram" width="22px" src="handles/instagram.svg" />
+</a>
+<a href="https://www.hackerrank.com/lostgirljourney">
+  <img align="center" alt="Falguni @Hackerrank" width="22px" src="handles/hackerrank.svg" />
+</a>
+<a href="https://google.qwiklabs.com/public_profiles/25c28abe-885e-4ec6-b75f-73f1d429ec08">
+  <img align="center" alt="Falguni @Qwiklabs" width="22px" src="handles/qwiklabs.png" />
+</a>
+<a href="https://falgunisarkar.medium.com/">
+  <img align="center" alt="Falguni @Qwiklabs" width="22px" src="handles/medium.svg" />
+</a>
+<a href="https://www.codechef.com/users/falgunisarkar">
+  <img align="center" alt="Falguni @CodeChef" width="22px" src="handles/codechef.jpeg" />
+</a>
+<a href="https://dev.to/lostgirljourney">
+  <img align="center" src="handles/dev.png" alt="Falguni @DEV Profile" width="22px">
+</a>
+
 </p>
 
 <hr>
