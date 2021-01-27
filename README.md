@@ -81,10 +81,10 @@
   <a href="mailto:falgunisarkar526@gmail.com">
   <img align="center" alt="Falguni @Mail" width="22px" src="handles/gmail.svg" />
 </a>
-<a href="https://twitter.com/lostgirlvintage">
+<a href="https://twitter.com/melophilecoder">
   <img align="center" alt="Falguni @Twitter" width="22px" src="handles/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/lostgirlvintage_">
+<a href="https://www.instagram.com/melophilecoder">
   <img align="center" alt="Falguni @Instagram" width="22px" src="handles/instagram.svg" />
 </a>
 <a href="https://www.hackerrank.com/lostgirljourney">
