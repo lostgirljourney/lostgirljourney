@@ -65,7 +65,7 @@
   <i><b>GitHub Stats:</b></i><br><br>
   <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&theme=midnight-purple&show_icons=true&count_private=true" alt="GitHub Status"/>
   <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=lostgirljourney&layout=compact&theme=midnight-purple" alt="Most Used Languages">
-  <br>
+  <br><br>
   <img src = "https://github-profile-trophy.vercel.app/?username=lostgirljourney&theme=juicyfresh&margin-w=5&no-frame=true" alt="lostgirljourney" />
   <br><br>
   <img src = "https://komarev.com/ghpvc/?username=lostgirljourney" alt="lostgirljourney" />
