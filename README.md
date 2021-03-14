@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/lostgirljourney">
-  <img src="https://user-images.githubusercontent.com/56036475/111083353-2d041280-8533-11eb-847a-db2ede2c10c7.png" alt = "Banner" height="250px" width="500px"/>
+  <img src="https://user-images.githubusercontent.com/56036475/111084376-14e2c200-8538-11eb-971e-d34f6ddc8378.png" alt = "Banner" height="250px" width="500px"/>
   </a>
 </p>
 
