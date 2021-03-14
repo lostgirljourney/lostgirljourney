@@ -1,7 +1,6 @@
 <hr>
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
 </h1>
 
 <p align="center">
@@ -14,11 +13,17 @@
   </em> 
   
   <br>
-  
-  <p align="center">
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/lostgirljourney">
+  <img src="https://user-images.githubusercontent.com/56036475/111083353-2d041280-8533-11eb-847a-db2ede2c10c7.png" alt = "Banner" height="250px" width="500px"/>
+  </a>
+</p>
+
+<!-- <p align="center">
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
   </p>
-</p>
+</p> -->
 
 <img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
@@ -63,10 +68,10 @@
 
 <p align = "center">
   <i><b>GitHub Stats:</b></i><br><br>
-  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&theme=midnight-purple&show_icons=true&count_private=true" alt="GitHub Status"/>
-  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=lostgirljourney&layout=compact&theme=midnight-purple" alt="Most Used Languages">
+  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&theme=midnight-purple&show_icons=true&count_private=true" alt="GitHub Status" />
+  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=lostgirljourney&layout=compact&theme=midnight-purple" alt="Most Used Languages" />
   <br><br>
-  <img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=lostgirljourney&theme=dracula&bg_color=000000" alt="GitHub Activity">
+  <img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=lostgirljourney&theme=dracula&bg_color=000000" alt="GitHub Activity" />
   <br><br>
   <img src = "https://github-profile-trophy.vercel.app/?username=lostgirljourney&theme=juicyfresh&margin-w=5&no-frame=true" alt="lostgirljourney" />
   <br><br>
