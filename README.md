@@ -127,6 +127,8 @@
   <i><b>Currently Playing🎶...</b></i>
   <br><br>
   <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
+  <br><br>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31glrpxgbfoi6qprbrezs4cwwaiu" href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
 </p>
 
 <hr>
