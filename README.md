@@ -126,10 +126,10 @@
 <p align="center"> 
   <i><b>Currently Playing🎶...</b></i>
   <br><br>
-<!--   <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
-    <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" alt="Spotify"/>
+  <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
+    <img src="https://novatorem-lostgirljourney.vercel.app/api/spotify" alt="Spotify"/>
   </a>
-  <br><br> -->
+  <br><br>
   <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31glrpxgbfoi6qprbrezs4cwwaiu&count=1" alt="Spotify"/>
   </a>
