@@ -68,13 +68,13 @@
 
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
-  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&theme=midnight-purple&show_icons=true&count_private=true" alt="GitHub Status" />
+  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
   <br><br>
-  <img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=lostgirljourney&theme=dracula&bg_color=000000" alt="GitHub Activity" />
+  <img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=lostgirljourney&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" />
   <br><br>
   <img src = "https://github-profile-trophy.vercel.app/?username=lostgirljourney&theme=juicyfresh&margin-w=5&no-frame=true" alt="lostgirljourney" />
   <br><br>
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=lostgirljourney&theme=radical" alt="lostgirljourney" />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=lostgirljourney&theme=radical&hide_border=true" alt="lostgirljourney" />
   <br><br>
   <img src = "https://komarev.com/ghpvc/?username=lostgirljourney" alt="lostgirljourney" />
 </p>
@@ -84,7 +84,7 @@
 <p align = "center">
   <i><b>Coding Stats💻:</b></i><br><br>
   <img src = "https://github-readme-stats-lostgirljourney.vercel.app/api/wakatime?username=lostgirljourney&layout=compact&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true" alt="Wakatime Status" />
-  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=lostgirljourney&layout=compact&theme=midnight-purple" alt="Most Used Languages" />
+  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=lostgirljourney&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <hr>
