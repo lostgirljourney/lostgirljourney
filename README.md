@@ -72,8 +72,8 @@
   <br><br>
   <img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=lostgirljourney&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" />
   <br><br>
-  <img src = "https://github-profile-trophy.vercel.app/?username=lostgirljourney&theme=juicyfresh&margin-w=5&no-frame=true" alt="lostgirljourney" />
-  <br><br>
+<!--   <img src = "https://github-profile-trophy.vercel.app/?username=lostgirljourney&theme=juicyfresh&no-frame=true&column=4" alt="lostgirljourney" />
+  <br><br> -->
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=lostgirljourney&theme=radical&hide_border=true" alt="lostgirljourney" />
   <br><br>
   <img src = "https://komarev.com/ghpvc/?username=lostgirljourney" alt="lostgirljourney" />
