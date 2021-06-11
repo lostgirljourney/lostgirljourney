@@ -25,7 +25,9 @@
   </p>
 </p> -->
 
-<img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<br>
+  
+<img align="center" width=250px alt="shinchan" src="https://media.giphy.com/media/icIr8rk03xQI6NS67S/giphy.gif" />
 
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
