@@ -1,21 +1,22 @@
 <h1 align="center">
-  <img alt="banner" src="https://user-images.githubusercontent.com/56036475/121846337-829fb500-cd04-11eb-95db-a02544fb889b.png" />
-  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <img alt="banner" src="assets/gifs/Banner.gif" />
+  
+  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
 </h1>
 
 <p align="center">
   <em>
     This is ME, Falguni Sarkar, a 2nd year undergraduate from <a href="http://sittechno.org/"> <b>Siliguri Institute of Technology</b>, Siliguri</a>. <br>
-    A budding <b>Full-Stack Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>grow</b> <img src="assets/gifs/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px">&nbsp.
   </em>
 </p>
   
-> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
+> <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
-<img align="right" width=250px alt="shinchan" src="https://media.giphy.com/media/icIr8rk03xQI6NS67S/giphy.gif" />
+<img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
 
 - 🔭 I’m currently working on projects availabe at [devChallenges.io](https://devchallenges.io/) .
 - 🌱 I’m currently learning stuffs to be a Full-Stack Web Developer!
