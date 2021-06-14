@@ -37,13 +37,13 @@
 <p align="center">
 <i><b>Languages Currently Learning:</b></i> 
   <br><br>
-  <img align="center" src="languages/c.svg" width="50px" />&nbsp;
-  <img align="center" src="languages/python.svg" width="50px" />&nbsp;
-  <img align="center" src="languages/html-5.svg" width="50px" />&nbsp;
-  <img align="center" src="languages/mysql.svg" width="50px" />&nbsp;
-  <img align="center" src="languages/css.svg" width="50px" />&nbsp;
-  <img align="center" src="languages/javascript.svg" width="50px" />&nbsp;
-  <img align="center" src="languages/cpp.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/c.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/python.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/html-5.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/mysql.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/css.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/javascript.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/cpp.svg" width="50px" />&nbsp;
 </p>
 
 <hr>
@@ -51,50 +51,44 @@
 <p align="center">
 <i><b>Tools known:</b></i> 
   <br><br>
-  <img align="center" src="tools/sublime.svg" width="50px" />&nbsp;
-  <img align="center" src="tools/vs-code.png" width="50px" />&nbsp;
-  <img align="center" src="tools/word.svg" width="50px" />&nbsp;
-  <img align="center" src="tools/excel.svg" width="50px" />&nbsp;
-  <img align="center" src="tools/powerpoint.svg" width="50px" />&nbsp;
-  <img align="center" src="tools/cmd.svg" width="50px" />&nbsp;
-  <img align="center" src="tools/git.svg" width="50px" />&nbsp;
-  <img align="center" src="tools/github.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/sublime.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/vs-code.png" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/word.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/excel.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/powerpoint.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/cmd.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/git.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/github.svg" width="50px" />&nbsp;
 </p>
 
 <hr>
 
 <p align = "center">
   <i><b>Profiles:</b></i><br><br>
+  <a href="mailto:falgunisarkar526@gmail.com">
+    <img align="center" alt="Falguni @Mail" width="50px" src="assets/handles/gmail.svg" />&nbsp;
+  </a>
   <a href="https://www.linkedin.com/in/falgunisarkar">
-  <img align="center" alt="Falguni @LinkedIN" width="50px" src="handles/linkedin.svg" />&nbsp;
-  </a>
-    <a href="mailto:falgunisarkar526@gmail.com">
-    <img align="center" alt="Falguni @Mail" width="50px" src="handles/gmail.svg" />&nbsp;
-  </a>
-  <a href="https://twitter.com/melophilecoder">
-    <img align="center" alt="Falguni @Twitter" width="50px" src="handles/twitter.svg" />&nbsp;
-  </a>
-  <a href="https://www.instagram.com/melophilecoder">
-    <img align="center" alt="Falguni @Instagram" width="50px" src="handles/instagram.svg" />&nbsp;
-  </a>
-  <a href="https://dev.to/lostgirljourney">
-    <img align="center" src="handles/dev.png" alt="Falguni @DEV Profile" width="50px">&nbsp;
+    <img align="center" alt="Falguni @LinkedIN" width="50px" src="assets/handles/linkedin.svg" />&nbsp;
   </a>
   <a href="https://medium.com/@falgunisarkar">
-    <img align="center" src="handles/medium.svg" alt="Falguni @Medium Profile" width="50px">&nbsp;
+    <img align="center" src="assets/handles/medium.svg" alt="Falguni @Medium Profile" width="50px">&nbsp;
+  </a>
+  <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu?si=74c6c3d9a8da4d5a">
+    <img align="center" alt="Spotify" width="50px" src="assets/handles/spotify.svg" />&nbsp;
+  </a>
+  <a href="https://twitter.com/melophilecoder">
+    <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/twitter.svg" />&nbsp;
+  </a>
+  <a href="https://www.instagram.com/melophilecoder">
+    <img align="center" alt="Falguni @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
+  </a>
+  <a href="https://dev.to/lostgirljourney">
+    <img align="center" src="assets/handles/dev.png" alt="Falguni @DEV Profile" width="50px">&nbsp;
   </a>
 </p>
 
 <hr>
-
-<!-- <details align="center">
-<summary>
-  <i><b>Projects I am currently working on:</b></i><br><br>
-</summary>
-<br />
-<br />
-</details> 
-<hr> -->
 
 <p align="center"> 
   <i><b>Currently Playing🎶...</b></i>
