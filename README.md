@@ -21,6 +21,7 @@
 - 🔭 I’m currently working on projects availabe at [devChallenges.io](https://devchallenges.io/) .
 - 🌱 I’m currently learning stuffs to be a Full-Stack Web Developer!
 - 💬 AMA, I am happy to help!
+- 📥 Drop your queries <a target="_blank" href="https://mailhide.io/e/uOjPBy2V">here</a>.
 - 😄 Pronouns: [She/Her](https://pronoun.is/she)
 - ⚡ Fun fact: I like **Shinchan, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
 
