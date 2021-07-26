@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    This is ME, Falguni Sarkar, a 2nd year undergraduate from <a href="http://sittechno.org/"> <b>Siliguri Institute of Technology</b>, Siliguri</a>. <br>
+    This is ME, Falguni Sarkar, a 2nd year undergraduate at <a href="http://sittechno.org/"> <b>Siliguri Institute of Technology</b>, Siliguri</a>. <br>
     A budding <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="assets/gifs/Rocket.gif" width="18px">and 
@@ -77,7 +77,10 @@
     <img align="center" src="assets/handles/medium.svg" alt="Falguni @Medium Profile" width="50px">&nbsp;
   </a>
   <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu?si=74c6c3d9a8da4d5a">
-    <img align="center" alt="Spotify" width="50px" src="assets/handles/spotify.svg" />&nbsp;
+    <img align="center" alt="Spotify" width="50px" src="assets/handles/spotify.png" />&nbsp;
+  </a>
+  <a href="https://discord.gg/5bCcEMEk8e">
+    <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/discord.png" />&nbsp;
   </a>
   <a href="https://twitter.com/melophilecoder">
     <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/twitter.svg" />&nbsp;
