@@ -18,8 +18,8 @@
 
 <img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
 
-- 🔭 I’m currently working on projects availabe at [devChallenges.io](https://devchallenges.io/) .
-- 🌱 I’m currently learning stuffs to be a Full-Stack Web Developer!
+- 🔭 I’m currently working on projects available at [devChallenges.io](https://devchallenges.io/) .
+- 🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
 - 💬 AMA, I am happy to help!
 - 📥 Drop your queries <a target="_blank" href="https://mailhide.io/e/uOjPBy2V">here</a>.
 - 😄 Pronouns: [She/Her](https://pronoun.is/she)
