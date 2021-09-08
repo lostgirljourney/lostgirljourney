@@ -42,7 +42,7 @@
   <img align="center" src="assets/languages/c.svg" width="50px" />&nbsp;
   <img align="center" src="assets/languages/python.svg" width="50px" />&nbsp;
   <img align="center" src="assets/languages/html-5.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/mysql.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/react.png" width="50px" />&nbsp;
   <img align="center" src="assets/languages/css.svg" width="50px" />&nbsp;
   <img align="center" src="assets/languages/javascript.svg" width="50px" />&nbsp;
   <img align="center" src="assets/languages/cpp.svg" width="50px" />&nbsp;
