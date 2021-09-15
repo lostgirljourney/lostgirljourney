@@ -18,12 +18,12 @@
 
 <img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
 
-- 🔭 I’m currently working on projects available at [devChallenges.io](https://devchallenges.io/) .
-- 🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
-- 💬 AMA, I am happy to help!
-- 📥 Drop your queries <a target="_blank" href="https://mailhide.io/e/uOjPBy2V">here</a>.
-- 😄 Pronouns: [She/Her](https://pronoun.is/she)
-- ⚡ Fun fact: I like **Shinchan, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
+-   🔭 I’m currently working on projects available at [devChallenges.io](https://devchallenges.io/) .
+-   🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
+-   💬 AMA, I am happy to help!
+-   📥 Drop your queries <a target="_blank" href="https://mailhide.io/e/uOjPBy2V">here</a>.
+-   😄 Pronouns: [She/Her](https://pronoun.is/she)
+-   ⚡ Fun fact: I like **Shinchan, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
 
 <hr>
 
@@ -85,10 +85,10 @@
   <a href="https://discord.gg/5bCcEMEk8e">
     <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/discord.png" />&nbsp;
   </a>
-  <a href="https://twitter.com/melophilecoder">
+  <a href="https://twitter.com/isshefalguni">
     <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/twitter.svg" />&nbsp;
   </a>
-  <a href="https://www.instagram.com/melophilecoder">
+  <a href="https://www.instagram.com/isshefalguni">
     <img align="center" alt="Falguni @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
   </a>
   <a href="https://dev.to/lostgirljourney">
