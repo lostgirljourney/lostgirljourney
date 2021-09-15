@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="banner" src="assets/gifs/Banner.gif" />
+  <img alt="banner" src="assets/header.jpg" />
   
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
 </h1>
@@ -75,6 +75,9 @@
   </a>
   <a href="https://medium.com/@falgunisarkar">
     <img align="center" src="assets/handles/medium.svg" alt="Falguni @Medium Profile" width="50px">&nbsp;
+  </a>
+  <a href="https://isshefalguni.hashnode.dev/">
+    <img align="center" alt="Spotify" width="50px" src="assets/handles/hashnode.png" />&nbsp;
   </a>
   <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu?si=74c6c3d9a8da4d5a">
     <img align="center" alt="Spotify" width="50px" src="assets/handles/spotify.png" />&nbsp;
