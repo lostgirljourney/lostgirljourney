@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    This is ME, Falguni Sarkar, a 3rd year undergraduate at <a href="http://sittechno.org/"> <b>Siliguri Institute of Technology</b>, Siliguri</a>. <br>
+    Hi, I'm Falguni, a 3rd year undergraduate. <br>
     A budding <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="assets/gifs/Rocket.gif" width="18px">and 
