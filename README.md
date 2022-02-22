@@ -30,8 +30,6 @@
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
   <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
-  <br><br>
-  <img src = "https://komarev.com/ghpvc/?username=lostgirljourney" alt="lostgirljourney" />
 </p>
 
 <hr>
@@ -93,20 +91,6 @@
   </a>
   <a href="https://dev.to/lostgirljourney">
     <img align="center" src="assets/handles/dev.png" alt="Falguni @DEV Profile" width="50px">&nbsp;
-  </a>
-</p>
-
-<hr>
-
-<p align="center"> 
-  <i><b>Currently Playing🎶...</b></i>
-  <br><br>
-  <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
-    <img src="https://novatorem-lostgirljourney.vercel.app/api/spotify" alt="Spotify"/>
-  </a>
-  <br>
-  <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31glrpxgbfoi6qprbrezs4cwwaiu&count=1" alt="Spotify"/>
   </a>
 </p>
 
