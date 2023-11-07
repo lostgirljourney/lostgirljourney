@@ -1,98 +1,59 @@
-<h1 align="center">
-  <img alt="banner" src="assets/header.jpg" />
-  
-  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
-</h1>
+# Hi, Falguni this side. ✨
 
-<p align="center">
-  <em>
-    Hi, I'm Falguni, a 3rd year undergraduate. <br>
-    A budding <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="assets/gifs/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px">&nbsp.
-  </em>
-</p>
-  
-> <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
+A Passionate Engineer from India. Welcome to my GitHub Space. 👋
 
-<img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
+### A little bit more about me:
 
--   🔭 I’m currently working on projects available at [devChallenges.io](https://devchallenges.io/) .
--   🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
--   💬 AMA, I am happy to help!
--   📥 Drop your queries <a target="_blank" href="https://mailhide.io/e/uOjPBy2V">here</a>.
--   😄 Pronouns: [She/Her](https://pronoun.is/she)
--   ⚡ Fun fact: I like **Shinchan, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
+Passionate about crafting exceptional user experiences, I strive to create pixel-perfect interfaces that seamlessly blend design and engineering principles.
 
-<hr>
+I am a lifelong learner, always seeking to expand my horizons. Thus, I am continuously exploring my capabilities to build efficient and scalable web applications.
 
-<p align = "center">
-  <i><b>GitHub Stats:octocat::</b></i><br><br>
-  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
-</p>
+<details>
+  <summary><b>experiences.</b></summary>
+  <ul>
+    <li>
+      <b><a href="https://www.salesforce.com/in/?ir=1">Salesforce</a> | Associate Technical Support Engineer</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad | Aug 2023 - Present
+      <ul>
+        <li>I am a new hire in the training phase. ✨</li>
+      </ul>
+    </li>
+	<br/>
+    <li>
+      <b><a href="https://theinternetfolks.com/">The Internet Folks</a> | SWE Intern</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remote | Dec 2022 - Apr 2023
+      <ul>
+        <li>I worked and created POCs for different projects and also solved many high-priority bugs related to the core functionality of the given projects.</li>
+        <li>I've mainly worked on Typescript, Next.js, React-Redux, React Query and Chakra UI for CSS.</li>
+      </ul>
+	</li>
+	<br/>
+    <li>
+      <b><a href="https://www.fleapo.com/">Fleapo</a> | Full Stack Developer | FTE</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kolkata | August 2022 - November 2022
+      <ul>
+        <li>I've been here as a full-stack developer, working for the first time in the backend space with the tech stack MongoDB and Node.js.</li>
+        <li>I've built a project from scratch in the backend and also worked forward to integrate the front end.</li>
+      </ul>
+	</li>
+	<br/>
+    <li>
+      <b><a href="https://procedure.tech/">Procedure</a> | SDE0 (Intern)</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remote | March 2022 - August 2022
+      <ul>
+        <li>I've worked as a Frontend Developer Intern on projects based on Next.js + Typescript.</li>
+        <li>I've fixed most of the high-priority UI fixes as well as developed complex UI components per the requirement.</li>
+      </ul>
+	</li>
+  </ul>
+</details>
 
-<hr>
+<details>
+  <summary><b>accounts.</b></summary>
+  <ul>
+    <li>Shitposting at <a href="https://twitter.com/isshefalguni">twitter.com/isshefalguni</a>.</li>
+    <li>Mail me at <a href="mailto:falgunisarkar526@gmail.com">falgunisarkar526@gmail.com</a>.</li>
+    <li>Prefer networking at <a href="https://www.linkedin.com/in/falgunisarkar">linkedin.com/in/falgunisarkar</a>.</li>
+    <li>Not so active (but okay) at <a href="https://www.instagram.com/lostgirljourney_/">instagram.com/lostgirljourney_</a>.</li>
+  </ul>
+</details>
 
-<p align="center">
-<i><b>Languages Currently Learning:</b></i> 
-  <br><br>
-  <img align="center" src="assets/languages/c.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/python.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/html-5.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/react.png" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/css.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/javascript.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/cpp.svg" width="50px" />&nbsp;
-</p>
+<h1></h1>
 
-<hr>
-
-<p align="center">
-<i><b>Tools known:</b></i> 
-  <br><br>
-  <img align="center" src="assets/tools/sublime.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/vs-code.png" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/word.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/excel.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/powerpoint.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/cmd.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/git.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/github.svg" width="50px" />&nbsp;
-</p>
-
-<hr>
-
-<p align = "center">
-  <i><b>Profiles:</b></i><br><br>
-  <a href="mailto:falgunisarkar526@gmail.com">
-    <img align="center" alt="Falguni @Mail" width="50px" src="assets/handles/gmail.svg" />&nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/falgunisarkar">
-    <img align="center" alt="Falguni @LinkedIN" width="50px" src="assets/handles/linkedin.svg" />&nbsp;
-  </a>
-  <a href="https://medium.com/@falgunisarkar">
-    <img align="center" src="assets/handles/medium.svg" alt="Falguni @Medium Profile" width="50px">&nbsp;
-  </a>
-  <a href="https://isshefalguni.hashnode.dev/">
-    <img align="center" alt="Spotify" width="50px" src="assets/handles/hashnode.png" />&nbsp;
-  </a>
-  <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu?si=74c6c3d9a8da4d5a">
-    <img align="center" alt="Spotify" width="50px" src="assets/handles/spotify.png" />&nbsp;
-  </a>
-  <a href="https://discord.gg/5bCcEMEk8e">
-    <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/discord.png" />&nbsp;
-  </a>
-  <a href="https://twitter.com/isshefalguni">
-    <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/twitter.svg" />&nbsp;
-  </a>
-  <a href="https://www.instagram.com/isshefalguni">
-    <img align="center" alt="Falguni @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
-  </a>
-  <a href="https://dev.to/lostgirljourney">
-    <img align="center" src="assets/handles/dev.png" alt="Falguni @DEV Profile" width="50px">&nbsp;
-  </a>
-</p>
-
-<hr>
-<!-- can't stop myself from editing🤷... -->
+Thanks for visiting my GitHub account & exploring my projects. Here's [my website](https://falgunisarkar.vercel.app/) to look more into my little space on this big space called the Internet. 😄
