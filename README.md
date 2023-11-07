@@ -13,7 +13,7 @@ I am a lifelong learner, always seeking to expand my horizons. Thus, I am contin
 <ul>
 	<li>JavaScript | TypeScript</li>
 	<li>React.js | Next.js</li>
-	<li>react-query | react-redux</li>
+	<li>React-Redux | React Query</li>
 	<li>TailwindCSS | Chakra-UI</li>
 	<li>Vite.js | Node.js</li>
 </ul>
