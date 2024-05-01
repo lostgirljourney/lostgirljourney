@@ -24,7 +24,10 @@ I am a lifelong learner, always seeking to expand my horizons. Thus, I am contin
   <li>
     <b><a href="https://www.salesforce.com/in/?ir=1">Salesforce</a> | Associate Technical Support Engineer</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad | Aug 2023 - Present
     <ul>
-      <li>I am a new hire in the training phase. ✨</li>
+      <li>
+        Currently working as a Proactive Support Engineer where we monitor our customers' org to protect them from unwanted situation which can impact their businesses. Our day-to-day job looks like working on cases created by our internal tools whenever the anomalies are detected.
+      </li>
+      <li>Mostly, working on analysing data and trend with our internal tools.</li>
     </ul>
   </li>
 	<br/>
